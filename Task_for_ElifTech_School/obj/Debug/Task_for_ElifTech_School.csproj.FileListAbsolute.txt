@@ -1,0 +1,8 @@
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\bin\Debug\Task_for_ElifTech_School.exe.config
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\obj\Debug\Task_for_ElifTech_School.csprojResolveAssemblyReference.cache
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\bin\Debug\Task_for_ElifTech_School.exe
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\bin\Debug\Task_for_ElifTech_School.pdb
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\bin\Debug\Newtonsoft.Json.dll
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\bin\Debug\Newtonsoft.Json.xml
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\obj\Debug\Task_for_ElifTech_School.exe
+c:\users\anya\documents\visual studio 2015\Projects\Task_for_ElifTech_School\Task_for_ElifTech_School\obj\Debug\Task_for_ElifTech_School.pdb
